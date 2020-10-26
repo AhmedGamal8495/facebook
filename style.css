@@ -1,0 +1,40 @@
+*{
+    margin: 0px; 
+    padding: 0px; 
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 350px
+}
+input{
+    direction: rtl;
+    width: 80%; 
+    margin-top: 15px; 
+    height: 25px;
+    background-color: #fff;
+    border: 1px solid #dddfe2;
+    outline: 0px; 
+    font-family: inherit ;
+    padding: 5px; 
+}
+input[type = submit]{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    padding: 5px;
+    color: aliceblue; 
+}
+input:hover{
+    border: 1px solid #166fe5; 
+}
+p{
+    margin-top: 10px;
+    color: #166fe5; 
+}
+    
+    
+    
+    
